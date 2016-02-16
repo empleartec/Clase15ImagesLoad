@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Clase15ImagesLoad</string>
+    <string name="title_activity_images_list">ImagesListActivity</string>
 </resources>
